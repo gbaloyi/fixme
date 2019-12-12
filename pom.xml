@@ -18,8 +18,8 @@
     <!-- Dependencies-->
     <dependencies>
         <dependency>
-            <groupId>io.netty</groupId>
-            <artifactId>netty-all</artifactId>
+            <groupId>io.gbaloyi</groupId>
+            <artifactId>gbaloyi-all</artifactId>
             <version>4.0.0.CR3</version>
         </dependency>
 
